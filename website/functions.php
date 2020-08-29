@@ -8,6 +8,9 @@ function siteName()
     echo config('name');
 }
 
+
+
+
 /**
  * Displays site version.
  */
